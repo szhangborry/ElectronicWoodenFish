@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "电子木鱼",
+    "version": "1.0",
+    "description": "一个简单的电子木鱼插件。",
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    },
+    "permissions": []
+  }
+  
